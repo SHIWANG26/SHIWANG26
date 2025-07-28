@@ -56,8 +56,8 @@ Current CGPA: 7.67
 
 ## 🌐 Connect With Me
 
-- 🌐 [Portfolio Website](http://shiwang26.github.io)
-- 💼 [LinkedIn](https://www.linkedin.com/in/shiwang-kumar-rai-7498931a3)
+- 🌐 [Portfolio Website](https://shiwangrai.vercel.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/shiwang-kumar-rai)
 - 💻 [LeetCode](https://leetcode.com/u/shiwang26/)
 - 📬 [Email](mailto:shiwangr@gmail.com)
 
