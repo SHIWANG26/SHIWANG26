@@ -27,7 +27,7 @@ I'm interested in Software Engineering and Backend Development with specializati
 
 ## 🧠 Project Highlights
 
-### 🔹 [Micropatient – Patient Management Microservices](https://www.google.com/search?q=https://github.com/SHIWANG26)
+### 🔹 [Micropatient – Patient Management Microservices](https://github.com/SHIWANG26/MicroPatient/)
 
 > Spring Boot | Spring AI | FastAPI | Apache Kafka | gRPC | PostgreSQL | Docker | RAG | LangChain
 
@@ -35,7 +35,7 @@ I'm interested in Software Engineering and Backend Development with specializati
 * **Agentic AI & RAG**: Orchestrated LangChain workflows to automate 85% of routine queries and developed a RAG pipeline with vector databases, improving LLM response accuracy by 40%.
 * **DevOps**: Containerized the entire ecosystem using Docker Compose for 100% dev-to-prod environment parity.
 
-### 🔹 [Foodingo – Full-Stack Food Ordering Platform](https://www.google.com/search?q=https://github.com/SHIWANG26)
+### 🔹 [Foodingo – Full-Stack Food Ordering Platform](https://github.com/SHIWANG26/foodingo_backend)
 
 > React | Java | Spring Boot | MongoDB | Spring Security (JWT) | Azure | AWS S3 | Razorpay
 
